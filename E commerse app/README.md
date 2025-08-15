@@ -1,5 +1,5 @@
 
-#   E Commerse Simple ui screen by Dart         #
+#   E commerce Simple ui screen by Dart         #
 
 
 DESCRIPTION:
@@ -12,3 +12,4 @@ ScreenShot from the screen
 <img width="496" height="716" alt="image" src="https://github.com/user-attachments/assets/a8c6e438-2fa5-4cd3-a4aa-d716d3cab3f7" />
 
 ### This is a task from Gaza Sky Geeks 
+
