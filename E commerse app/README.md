@@ -1,16 +1,14 @@
-# e_commerce_app
 
-A new Flutter project.
+#   E Commerse Simple ui screen by Dart         #
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+DESCRIPTION:
+  A clean and simple frontend UI design for a freelance platform, showcasing daily deals and top-rated freelancers. 
+  Built with clarity and usability in mind, it focuses on essential user interactions like searching, viewing deals, and exploring top freelancers.
 
-A few resources to get you started if this is your first Flutter project:
+----------------------------------------------
+ScreenShot from the screen 
+----------------------------------------------
+<img width="496" height="716" alt="image" src="https://github.com/user-attachments/assets/a8c6e438-2fa5-4cd3-a4aa-d716d3cab3f7" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### This is a task from Gaza Sky Geeks 
